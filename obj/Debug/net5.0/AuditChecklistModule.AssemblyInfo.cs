@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ef252ff8-c8fe-4ed2-9bd7-9419fb9f0f0d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuditChecklistModule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJ2BsgYil7AD5dWv/VIYtPT3R3yTsIhNvGBVOZMH36A8UhHqSNqVorKcZIm5y2uCkKu+CJCOQTZgGXai0BWInA==",
+  "dgSpecHash": "MVdYgT9GmPdOV9l8nPK/r9ZvCFmXTlRgnSByrvXloWQwpss9e0urHHbkqVFVMjasXicqm3i5IJZ3PsFC/vh5FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2085676\\source\\repos\\AuditCheckListModule\\AuditChecklistModule.csproj",
+  "projectFilePath": "C:\\MFPE\\MFPE Project - Audit Management\\AuditChecklistModule\\AuditChecklistModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2085676\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\log4net\\2.0.14\\log4net.2.0.14.nupkg.sha512",
@@ -51,6 +51,7 @@
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\2085676\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\2085676\\.nuget\\packages\\moq\\4.17.2\\moq.4.17.2.nupkg.sha512",

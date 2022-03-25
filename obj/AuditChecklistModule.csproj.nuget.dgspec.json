@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2085676\\source\\repos\\AuditCheckListModule\\AuditChecklistModule.csproj": {}
+    "C:\\MFPE\\MFPE Project - Audit Management\\AuditChecklistModule\\AuditChecklistModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2085676\\source\\repos\\AuditCheckListModule\\AuditChecklistModule.csproj": {
+    "C:\\MFPE\\MFPE Project - Audit Management\\AuditChecklistModule\\AuditChecklistModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2085676\\source\\repos\\AuditCheckListModule\\AuditChecklistModule.csproj",
+        "projectUniqueName": "C:\\MFPE\\MFPE Project - Audit Management\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "projectName": "AuditChecklistModule",
-        "projectPath": "C:\\Users\\2085676\\source\\repos\\AuditCheckListModule\\AuditChecklistModule.csproj",
+        "projectPath": "C:\\MFPE\\MFPE Project - Audit Management\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "packagesPath": "C:\\Users\\2085676\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2085676\\source\\repos\\AuditCheckListModule\\obj\\",
+        "outputPath": "C:\\MFPE\\MFPE Project - Audit Management\\AuditChecklistModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -65,6 +65,10 @@
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
             },
             "Moq": {
               "target": "Package",
