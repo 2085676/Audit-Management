@@ -1,0 +1,14 @@
+2022-03-25 13:17:47,995  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-03-25 13:17:48,178  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-03-25 13:17:48,180  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Hosting environment: Development
+ 2022-03-25 13:17:48,180  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Hosting environment: Development
+ 2022-03-25 13:17:48,182  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Content root path: C:\Users\2085676\source\repos\AuditChecklistModule
+ 2022-03-25 13:17:48,182  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Content root path: C:\Users\2085676\source\repos\AuditChecklistModule
+ 2022-03-25 13:17:52,142  INFO AuditChecklistModule.Controllers.AuditChecklistController.GetAuditCheckListQuestions [32] - MESSAGE: AuditChecklistController Http GET request calledAuditChecklistController
+ 2022-03-25 13:17:52,340  INFO AuditChecklistModule.Services.ChecklistService.GetQuestionList [23] - MESSAGE: Http GET request calledChecklistService
+ 2022-03-25 13:17:52,341  INFO AuditChecklistModule.Repository.ChecklistRepo.GetQuestions [32] - MESSAGE: Log from ChecklistRepo
+ 2022-03-25 13:17:58,342  INFO AuditChecklistModule.Controllers.AuditChecklistController.GetAuditCheckListQuestions [32] - MESSAGE: AuditChecklistController Http GET request calledAuditChecklistController
+ 2022-03-25 13:18:04,751  INFO AuditChecklistModule.Controllers.AuditChecklistController.GetAuditCheckListQuestions [32] - MESSAGE: AuditChecklistController Http GET request calledAuditChecklistController
+ 2022-03-25 13:18:04,751  INFO AuditChecklistModule.Services.ChecklistService.GetQuestionList [23] - MESSAGE: Http GET request calledChecklistService
+ 2022-03-25 13:18:04,752  INFO AuditChecklistModule.Repository.ChecklistRepo.GetQuestions [32] - MESSAGE: Log from ChecklistRepo
+ 
