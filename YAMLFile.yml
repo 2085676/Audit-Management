@@ -15,12 +15,12 @@ spec:
         app: AuditChecklistModule
     spec:
       containers:
-      - name: auditmanagementacr
-        image: auditmanagementacr.azurecr.io/auditchecklistmicroservicerepo:Latest
+      - name: auditchecklistcr
+        image: auditchecklistcr.azurecr.io/auditchecklistrepo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: auditmanagementsvcsecret
+      - name: auditchecklistsvcsecret
 ---
 apiVersion: v1
 kind: Service
